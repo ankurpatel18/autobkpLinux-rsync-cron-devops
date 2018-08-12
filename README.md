@@ -15,7 +15,7 @@ download my project using
 
 2) copy backup.sh file to your home directory, Which has below code 
   
-        #!/bin/sh
+        #!/bin/bash
         rsync  -avz  /var/www/  ~/wwwbkp/rsync/ > /dev/null // sync your www directotry to your homefolder/wwwbkp/rsync directory
         tar -cvjf ~/wwwbkp/daily_$(date +%Y%m%d%H%M).tar.bz2 -P  ~/wwwbkp/rsync/ > /dev/null // tar your rsync content and added zip name with date in format of yyyymmddhhmm 
  
