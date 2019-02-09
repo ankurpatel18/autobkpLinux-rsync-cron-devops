@@ -1,4 +1,5 @@
 # Automatic backup of your www folder in linux machine using  rsync and cron
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a1d01c8bec0d45049dbc069397731c30)](https://app.codacy.com/app/ankurpatel18/autobkpLinux-rsync-cron-devops?utm_source=github.com&utm_medium=referral&utm_content=ankurpatel18/autobkpLinux-rsync-cron-devops&utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/ankurpatel18/autobkplinux-rsync-cron-devops/badge)](https://www.codefactor.io/repository/github/ankurpatel18/autobkplinux-rsync-cron-devops)
 
 Dev Ops Foundation Project - For Linux auto backup using rsync and cron
